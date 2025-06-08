@@ -14,7 +14,7 @@ An Android application that automatically forwards incoming SMS messages to a sp
 
 ### 1. Clone the Repository
 ```bash
-git clone <repository-url>
+git clone https://github.com/Harkit2004/sms-sender-android-app
 cd sms-forwarder-android
 ```
 
